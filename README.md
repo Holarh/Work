@@ -6,4 +6,4 @@
  
  I did this in the Juypter Notebook in the repository. [here](https://github.com/Holarh/Work/blob/master/project1.ipynb)
 
-[](https://github.com/Holarh/Work/blob/master/maintenance-fee.jpg)
+[](https://github.com/Holarh/Work/blob/master/Images/maintenance-fee.jpg)
